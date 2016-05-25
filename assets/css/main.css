@@ -157,10 +157,10 @@
 	}
 
 	#wrapper {
-		-moz-animation: wrapper 3s forwards;
-		-webkit-animation: wrapper 3s forwards;
-		-ms-animation: wrapper 3s forwards;
-		animation: wrapper 3s forwards;
+		-moz-animation: wrapper 1s forwards;
+		-webkit-animation: wrapper 1s forwards;
+		-ms-animation: wrapper 1s forwards;
+		animation: wrapper 1s forwards;
 		height: 100%;
 		left: 0;
 		opacity: 0;
@@ -265,7 +265,7 @@
 	}
 
 /* Overlay */
-
+/*
 	@-moz-keyframes overlay {
 		0% {
 			opacity: 0;
@@ -307,10 +307,10 @@
 	}
 
 	#overlay {
-		-moz-animation: overlay 1.5s 1.5s forwards;
-		-webkit-animation: overlay 1.5s 1.5s forwards;
-		-ms-animation: overlay 1.5s 1.5s forwards;
-		animation: overlay 1.5s 1.5s forwards;
+		-moz-animation: overlay 11.5s 11.5s forwards;
+		-webkit-animation: overlay 11.5s 11.5s forwards;
+		-ms-animation: overlay 11.5s 11.5s forwards;
+		animation: overlay 11.5s 11.5s forwards;
 		background-attachment: fixed, fixed;
 		background-image: url("images/overlay-pattern.png"), url("images/overlay.svg");
 		background-position: top left, center center;
@@ -323,7 +323,7 @@
 		top: 0;
 		width: 100%;
 	}
-
+*/
 /* Main */
 
 	#main {

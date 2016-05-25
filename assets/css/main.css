@@ -491,10 +491,10 @@
 	}
 
 	#header {
-		-moz-animation: header 1s 2.25s forwards;
-		-webkit-animation: header 1s 2.25s forwards;
-		-ms-animation: header 1s 2.25s forwards;
-		animation: header 1s 2.25s forwards;
+		-moz-animation: header 0.5s 1s forwards;
+		-webkit-animation: header 0.5s 1s forwards;
+		-ms-animation: header 0.5s 1s forwards;
+		animation: header 0.5s 1s forwards;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
@@ -641,7 +641,7 @@
 					border-radius: 000%;
 					border: solid 0px #fff;
 					display: block;
-					font-size: 2em;
+					font-size: 2.25em;
 					height: 1.5em;
 					line-height: 1.5em;
 					position: relative;

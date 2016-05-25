@@ -634,8 +634,12 @@
 					-webkit-transition: all 0.2s ease-in-out;
 					-ms-transition: all 0.2s ease-in-out;
 					transition: all 0.2s ease-in-out;
+					/*
 					border-radius: 100%;
 					border: solid 1px #fff;
+					*/
+					border-radius: 000%;
+					border: solid 0px #fff;
 					display: block;
 					font-size: 1.75em;
 					height: 2.5em;

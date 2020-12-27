@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ferdinandolm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://f.lamattina.me
+  * I am ferdinandolm (https://keybase.io/ferdinandolm) on keybase.
+  * I have a public key ASDcWN3KWw8BRywxOoexjW8rjmPm2nCUpBkzw5HJdAafXgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012023a5844d12533fa0917095434f7dfb7bddcfa965e9665f6288f21fa5aa40d09e0a",
+      "host": "keybase.io",
+      "kid": "0120dc58ddca5b0f01472c313a87b18d6f2b8e63e6da7094a41933c391c974069f5e0a",
+      "uid": "2808f4d4944f809744f271d346a49719",
+      "username": "ferdinandolm"
+    },
+    "merkle_root": {
+      "ctime": 1609095301,
+      "hash": "da2c783939fcb9de0b31752c039fce253aacbf254351cd4c82bc9368cff6ed0e4f801130d6ea54b295caf9359bcc8adc8c8eea9884b8b0c97bba42de26d951ef",
+      "hash_meta": "50c7df74c7230c1bcb7765dd4d3033f01df6f70b40cedd0f4b35cf2f285c0b2e",
+      "seqno": 18520258
+    },
+    "service": {
+      "entropy": "KGFoqCHz9eOdcwhnSHA8v9/A",
+      "hostname": "f.lamattina.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1609095344,
+  "expire_in": 504576000,
+  "prev": "43f49eedd31289ba973aa9d18735f6dd18958d4c592a11134c6f7eb5aa2adbaf",
+  "seqno": 85,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3FjdylsPAUcsMTqHsY1vK45j5tpwlKQZM8ORyXQGn14Kp3BheWxvYWTESpcCVcQgQ/Se7dMSibqXOqnRhzX23RiVjUxZKhETTG9+taoq26/EIC3n/1ZOHxIXVVYxrujcoatH1OxWWETN44odErlnXBWJAgHCo3NpZ8RASbgud5GYk0whWZKjAQgxR0MIoRLAwDi+gEiauiofEYakcDAYx04g/ufHdPdF3YNDV78eo4whFDwSFSNwbkivCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFj4aoDcJxq2XrD+qyWPczz+W3oWxxiYpO5geHFiEf3eo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ferdinandolm
+
+==================================================================
